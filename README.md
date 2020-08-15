@@ -4,10 +4,10 @@ Just for fun!
 
 Work in progress!
 
-[ ] not finished!
+- [ ] not finished!
 
-[ ] finish typing it up
+- [ ] finish typing it up
 
-[ ] add images
+- [ ] add images
 
-[ ] add actual worksheet with fill in the blank sort of stuff
+- [ ] add actual worksheet with fill in the blank sort of stuff
