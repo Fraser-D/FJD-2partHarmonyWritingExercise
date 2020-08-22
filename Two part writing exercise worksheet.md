@@ -20,11 +20,11 @@ Blank staffs are provided so you can draw your own clefs and key signatures, bec
 
 - The harmony as been decided already, it is a "I, IV, V, I, I, IV, V, I" progression. Each harmony lasts for one minim, so there are two harmonies per bar. (This is actually "I, IV, V, I" twice in a row, which you might have already spotted)
 
-- These harmonies tell use which pitches we can pick from and when. So when we fill in the notes (in minims) the first minim needs to be one of the notes from the I chord, the 2nd minim needs to be one of the notes in the IV chord, the 3rd from the V chord, the 4th from the I chord, and so on...
+- These harmonies tell us which pitches we can pick from and when. So when we fill in the notes (in minims) the first minim needs to be one of the notes from the I chord, the 2nd minim needs to be one of the notes in the IV chord, the 3rd from the V chord, the 4th from the I chord, and so on...
 
-- (choosing harmonies is one of the main ways of making music sound fun and different! So as they have been chosen already in this exercise, all the different ways of completing the exercise should still sound similar, you could string a couple of them together and see what that sounds like.)
+- (choosing harmonies is one of the main ways of making music sound fun and different! So as they have been chosen already in this exercise, all the different ways of completing the exercise should still sound similar. You could string a couple of them together to make a longer piece and see what that sounds like.)
 
-##### Info on chord tones in G major
+### Info on chord tones in G major
 
 These are the chords used in this exercise, and the notes that are in them.
 
@@ -36,7 +36,7 @@ These are the chords used in this exercise, and the notes that are in them.
 
 The 1(or "root"), 3rd, and 5th are what can be called "chord degrees".
 
-#### Here are the steps
+### Here are the steps
 
 1. Write a top line
 
@@ -50,26 +50,26 @@ The 1(or "root"), 3rd, and 5th are what can be called "chord degrees".
 
 6. (optional) Fix anything that jumps out at you :)  
 
-#### Details of what that all means
+### Details of what that all means
 
 1. Writing the top line (in minims)
    
    1. Draw your clef of choice and the key signature (one sharp)
    
-   2. Draw in the chord symbols above the staff, two per bar, using the pattern described above (I, IV, V, I, I, IV, V, I). Leave some space so things don't get cluttered.
+   2. Draw in the chord symbols above the staff, two per bar, using the pattern described above (I, IV, V, I, I, IV, V, I). The worksheet has a place to put them, but if you are not using it be sure to leave some space so things don't get cluttered.
    
-   3. The first and last note must be G, and a minim - all the notes we are adding are minims - so put them in. You can **choose** which octave to put them in (you can start and end on the same note, or end an octave higher than your first note, or end an octave lower)
+   3. The first and last note must be G, (and a minim - all the notes we are adding are minims) so put them in. You can **choose** which octave to put them in (you can start and end on the same note, or end an octave higher than your first note, or end an octave lower)
    
    4. The second to last note needs to be either the A immediately above the last note, or the F# immediately below the last note. **Choose** one of those and add it in. (Getting to the last note by step this way makes the end sound nice and  ending-y)
    
-   5. That's three of the eight notes done, only 5 to go! To fill in the rest of the notes you must **choose** one of the notes from the chord written above it. So the first note is already done - a G, which is the root of the "I" chord. The second note is from the IV chord and so must be either a C, E, or G. Then the third note is from the V chord so must be either a D, F# or A. So on for the rest of the notes.
+   5. That's three of the eight notes done, only 5 to go! To fill in the rest of the notes you must **choose** one of the notes from the chord written above it. So the first note is already done - a G, which is the root of the "I" chord. The second note is from the IV chord and so must be either a C, E, or G. Then the third note is from the V chord so must be either a D, F# or A, and so on for the rest of the notes.
    
-   6. After filling in the first line, mark the chord degree of each note above the staff. Make sure you write the degree of the harmony the note is in! For example, when the harmony is "I", G is the root (or 1), but when the harmony is "IV" G is the 5th. Have a look at the handy table above to check!
+   6. After filling in the first line, mark the chord degree of each note above the staff. Make sure you write the degree of the harmony the note is in! For example, when the harmony is "I", G is the root (or 1) of that chord, but when the harmony is "IV" G is the 5th of that chord. Have a look at the handy table above to check!
 
 2. Writing the second line (in minims)
    
    1. The second line has a few more restrictions than the first line, so there are fewer choices to be made.
-   2. The first and last note of the second line also need to be G, same rules apply as to the top line. These do not need to be the same octave as the first and last notes you picked for the first line. The can also follow a different shape from the top line, (you can start and end on the same note, or end an octave higher than your first note, or end an octave lower) and in fact, being deliberately different can help the two parts work with each other. **Choose** which octave you want these Gs to be in and write them in.
+   2. The first and last note of the second line also need to be G, same rules apply as to the top line. These do not need to be the same octave as the first and last notes you picked for the first line. The can also follow a different shape from the top line, (you can start and end on the same note, or end an octave higher than your first note, or end an octave lower) and in fact, being deliberately different can help the two parts work well with each other. **Choose** which octave you want these Gs to be in and write them in.
    3. The second to last note *must* be the opposite of what you picked for the first part. So if your first part steps down from the A to the G at the end this part must have an F# as its second last note, immediately below the G you chose in the previous step. And if the first part had the F#, this part must have an A stepping down to its last note.
    4. Filling in the rest of the notes has an extra rule as well as the rules from above (using notes from the chords you are on). The new rule is based on whether the first line is playing the 3rd of the chord or not for each note. If the first line is playing the 3rd you can **choose** either the root or the 5th of the chord. But if the first line is *not* playing the 3rd the second line must be the 3rd of the chord. (this way the 3rd of the chord is always being played in one of the voices, except for the first and last chords where they are both playing G)
    5. Write down the chord degree of each note underneath the staff.
@@ -89,7 +89,7 @@ The 1(or "root"), 3rd, and 5th are what can be called "chord degrees".
 
 5. More minim embellishing - common tones.
    
-   1. Go through each line one more time. If a note before a minim is also a chord tone of the chord the minim, turn the minim into two quarter notes. Make the first quarter note the same pitch as the note before it and tie them together. The second note stays the pitch the minim was.
+   1. Go through each line one more time. If a note before a minim is also a chord tone of the chord the minim is from turn the minim into two quarter notes. Make the first quarter note the same pitch as the note before it and tie them together. The second note stays the pitch the minim was.
    
    2. Common tones can be a little tricky to spot. 
       
