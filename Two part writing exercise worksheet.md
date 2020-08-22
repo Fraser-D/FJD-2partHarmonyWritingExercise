@@ -77,4 +77,30 @@ The 1(or "root"), 3rd, and 5th are what can be called "chord degrees".
 
 3. Embellish the minims - Fill in any melodic thirds
    
-   1. Go through each line, if a minim is followed by a note a 3rd above or below it replace it with two quarter notes. The first quarter note is the pitch the minim was, and the second quarter note is the pitch leading to the next note. This "fills in" the 3rd, making a little three note scale.
+   1. Go through each line. If a minim is followed by a note a 3rd above or below it replace it with two quarter notes. The first quarter note stays the same pitch that the minim was, and the second quarter note is the pitch leading to the next note. This "fills in" the 3rd, making a little three note scale.
+
+4. More minim embellishing - suspend descending seconds
+   
+   1. Go through each line, up to the last note. If a minim is preceded by a note one scale degree above it replace it with two quarter notes. The first quarter note is the pitch of the note before, the second quarter note stays on the same pitch that the minim was.
+   
+   2. Tie the first quarter note to the note before it.
+   
+   3. Do not change the final minim - one of the voices will have it's final note approached by step from above because of the rules we used above, but if it becomes suspended it makes the ending less ending-y.
+
+5. More minim embellishing - common tones.
+   
+   1. Go through each line one more time. If a note before a minim is also a chord tone of the chord the minim, turn the minim into two quarter notes. Make the first quarter note the same pitch as the note before it and tie them together. The second note stays the pitch the minim was.
+   
+   2. Common tones can be a little tricky to spot. 
+      
+      - Going from G major to C major, (G B D) to (C E G), G is a common tone, it is the root of the G chord and the 5th of the C chord. 
+      
+      - Going from D major to G major, (D F# A) to (G B D), D is a common tone, it is the root of the D chord and the 5th of the G chord.
+      
+      - Note that, though the chords share notes, the notes do different jobs in each chord.
+      
+      - Going from C major to D major, (C E G) to (D F# A), there are no common tones.
+      
+      - And going from G major to G major all notes are common, as they are the same chord. These are all the chord changes in the progression that we are using.
+
+6. Optional final step! Play it a few times. Change anything you want, if you want. Because you can.
