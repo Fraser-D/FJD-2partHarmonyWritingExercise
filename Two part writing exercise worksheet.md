@@ -6,7 +6,7 @@ This is not the only way, nor the best way, nor necessarily a *sensible* way of 
 
 The rules of harmony and counterpoint are very vaguely followed here, please do not use this as a definitive guide on anything musical out in the real world.
 
-The idea is to reduce the number of choices you need to make a piece of music down to a manageable minimum, so you can get something done quickly, and is small and finite in size so you can actually finish it.
+The idea is to reduce the number of choices needed to make a piece of music down to a manageable minimum, so you can get something done quickly. It is also short, so you can actually finish it.
 
 Blank staffs are provided so you can draw your own clefs and key signatures, because that's fun!
 
@@ -14,7 +14,7 @@ Blank staffs are provided so you can draw your own clefs and key signatures, bec
 
 - We are in the key of G major
 
-- We are only using two rhythms, Minims and Quarter Notes. Because we are only using these two rhythms you can choose to not draw in the stems of the notes and just draw the noteheads. So an empty circle for a minim, and a filled circle for a quarter note.
+- We are only using two rhythms, Minims and Quarter Notes. Because we are only using these two rhythms you can choose to not draw the stems of the notes and just draw the noteheads. So an empty circle for a minim, and a filled circle for a quarter note.
 
 - The exercise is four bars long, with two minims per bar.
 
@@ -22,7 +22,7 @@ Blank staffs are provided so you can draw your own clefs and key signatures, bec
 
 - These harmonies tell us which pitches we can pick from and when. So when we fill in the notes (in minims) the first minim needs to be one of the notes from the I chord, the 2nd minim needs to be one of the notes in the IV chord, the 3rd from the V chord, the 4th from the I chord, and so on...
 
-- (choosing harmonies is one of the main ways of making music sound fun and different! So as they have been chosen already in this exercise, all the different ways of completing the exercise should still sound similar. You could string a couple of them together to make a longer piece and see what that sounds like.)
+- (Choosing harmonies is one of the main ways of making music sound fun and different! So, as they have been chosen already in this exercise, all the different ways of completing the exercise should still sound similar. You could string a couple of them together to make a longer piece and see what that sounds like.)
 
 ### Info on chord tones in G major
 
@@ -35,6 +35,8 @@ These are the chords used in this exercise, and the notes that are in them.
 | V            | DF#A           | D       | F#  | A   |
 
 The 1(or "root"), 3rd, and 5th are what can be called "chord degrees".
+
+
 
 ### Here are the steps
 
@@ -58,7 +60,7 @@ The 1(or "root"), 3rd, and 5th are what can be called "chord degrees".
    
    2. Draw in the chord symbols above the staff, two per bar, using the pattern described above (I, IV, V, I, I, IV, V, I). The worksheet has a place to put them, but if you are not using it be sure to leave some space so things don't get cluttered.
    
-   3. The first and last note must be G, (and a minim - all the notes we are adding are minims) so put them in. You can **choose** which octave to put them in (you can start and end on the same note, or end an octave higher than your first note, or end an octave lower)
+   3. The first and last note must be G, (and a minim - all the notes we are adding in this step are minims) so put them in. You can **choose** which octave to put them in (you can start and end on the same note, or end an octave higher than your first note, or end an octave lower)
    
    4. The second to last note needs to be either the A immediately above the last note, or the F# immediately below the last note. **Choose** one of those and add it in. (Getting to the last note by step this way makes the end sound nice and  ending-y)
    
@@ -69,11 +71,11 @@ The 1(or "root"), 3rd, and 5th are what can be called "chord degrees".
 2. Writing the second line (in minims)
    
    1. The second line has a few more restrictions than the first line, so there are fewer choices to be made.
-   2. The first and last note of the second line also need to be G, same rules apply as to the top line. These do not need to be the same octave as the first and last notes you picked for the first line. The can also follow a different shape from the top line, (you can start and end on the same note, or end an octave higher than your first note, or end an octave lower) and in fact, being deliberately different can help the two parts work well with each other. **Choose** which octave you want these Gs to be in and write them in.
-   3. The second to last note *must* be the opposite of what you picked for the first part. So if your first part steps down from the A to the G at the end this part must have an F# as its second last note, immediately below the G you chose in the previous step. And if the first part had the F#, this part must have an A stepping down to its last note.
-   4. Filling in the rest of the notes has an extra rule as well as the rules from above (using notes from the chords you are on). The new rule is based on whether the first line is playing the 3rd of the chord or not for each note. If the first line is playing the 3rd you can **choose** either the root or the 5th of the chord. But if the first line is *not* playing the 3rd the second line must be the 3rd of the chord. (this way the 3rd of the chord is always being played in one of the voices, except for the first and last chords where they are both playing G)
+   2. The first and last note of the second line also need to be G, and the same rules apply as to the top line. These do not need to be the same octave as the first and last notes you picked for the first line. The can also follow a different shape from the top line, (you can start and end on the same note, or end an octave higher than your first note, or end an octave lower). In fact, being deliberately different can help the two parts work well with each other. **Choose** which octave you want these Gs to be in and write them in.
+   3. The second to last note *must* be the opposite of what you picked for the first part. So, if your first part steps down from the A to the G at the end this part must have an F# as its second last note, immediately below the G you chose in the previous step. And if the first part had the F#, this part must have an A stepping down to its last note.
+   4. Filling in the rest of the notes has an extra rule as well as the rules from above (using notes from the chords you are on). The new rule is based on whether the first line is playing the 3rd of the chord or not for each note. If the first line is playing the 3rd you can **choose** either the root or the 5th of the chord. But if the first line is *not* playing the 3rd the second line must be the 3rd of the chord. (This way the 3rd of the chord is always being played in one of the voices, except for the first and last chords where they are both playing G)
    5. Write down the chord degree of each note underneath the staff.
-   6. For bonus points fill in the interval between each note in the first and second parts in between the staves. (The interval between two notes is in scale degrees, not chord degrees. C up to E is a 3rd, E up to C is a 6th for example. If in doubt, count the alphabet letters "C D E" = 3 = a 3rd, "E F# G A B C" = 6 = a 6th)
+   6. For bonus points fill in the interval between each note in the first and second parts in between the staves. (The interval between two notes is in scale degrees, not chord degrees. C up to E is a 3rd, E up to C is a 6th for example. If in doubt, count the alphabet letters "C D E" = 3 = a 3rd, "E F# G A B C" = 6 = a 6th. Start from the lowest note)
 
 3. Embellish the minims - Fill in any melodic thirds
    
@@ -103,4 +105,4 @@ The 1(or "root"), 3rd, and 5th are what can be called "chord degrees".
       
       - And going from G major to G major all notes are common, as they are the same chord. These are all the chord changes in the progression that we are using.
 
-6. Optional final step! Play it a few times. Change anything you want, if you want. Because you can.
+6. Optional final step! Play it a few times. Change anything you want, if you want. Because you can. And for extra bonus points play one part and sing the other! Then swap.
